@@ -1,0 +1,28 @@
+name: InSecurITy
+favicon: null
+layout_spectrum: 0.01372654433362186
+typography_spectrum: 0.3534702530596405
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.06514242920093238
+  lightness: 0.5673141123261303
+  saturation: 0.5544477943331003
+  rhythmicContrast: 0.7698409869335592
+purpose: []
