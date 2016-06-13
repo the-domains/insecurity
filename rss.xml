@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[InSecurITy]]></title>
+        <description><![CDATA[InSecurITy]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 13 Jun 2016 05:47:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Charles Henson has been in the IT industry for over twenty years. After getting his first “computer” around 1984 from a school friend, an immediate thought came to mind: if computers break, someone will need to fix them. This simple idea drove Charles to receive his Associates degree in Electrical Engineering from ITT Technical Institute.</p>]]></description>
+            <link>undefinedcharles-henson-has-been-in-the-it-industry-for-over-twenty-y/index.html</link>
+            <guid isPermaLink="false">f905f82d-e609-4137-a2d8-c55cba7e30c2</guid>
+            <pubDate>Mon, 13 Jun 2016 05:47:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
