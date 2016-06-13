@@ -1,7 +1,7 @@
 name: InSecurITy
 favicon: null
-layout_spectrum: 0.01372654433362186
-typography_spectrum: 0.3534702530596405
+layout_spectrum: 0
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#ffffff'
+    - '#000000'
+    - '#00b9f1'
+    - '#818284'
+    - '#005c8d'
   brandStrength: 0.125
   lightness: 0.5673141123261303
   saturation: 0.5544477943331003
